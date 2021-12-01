@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXeAZFMItLtdtCeBXGKY+z/wnttiZmZmMBkYsW4eBJ0TWZY32VZmMDtKkL3crvuI96L+phHeEvhzwi2x/g5x1A==",
+  "success": true,
+  "projectFilePath": "C:\\GlobalProject\\GlobalProject.Domain\\GlobalProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anjali_Agrawal\\.nuget\\packages\\mongodb.bson\\2.14.0\\mongodb.bson.2.14.0.nupkg.sha512",
+    "C:\\Users\\Anjali_Agrawal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.csproj.AssemblyReference.cache
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.AssemblyInfoInputs.cache
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.AssemblyInfo.cs
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.csproj.CoreCompileInputs.cache
+C:\GlobalProject\GlobalProject.Domain\bin\Debug\netcoreapp3.1\GlobalProject.Domain.deps.json
+C:\GlobalProject\GlobalProject.Domain\bin\Debug\netcoreapp3.1\GlobalProject.Domain.dll
+C:\GlobalProject\GlobalProject.Domain\bin\Debug\netcoreapp3.1\GlobalProject.Domain.pdb
+C:\GlobalProject\GlobalProject.Domain\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.dll
+C:\GlobalProject\GlobalProject.Domain\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.pdb
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.csproj.CopyComplete
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.dll
+C:\GlobalProject\GlobalProject.Domain\obj\Debug\netcoreapp3.1\GlobalProject.Domain.pdb

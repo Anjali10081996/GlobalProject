@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="MongoDB.Bson" Version="2.14.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GlobalProject.Domain\GlobalProject.Domain.csproj" />
+    <ProjectReference Include="..\GlobalProject.Infrastructure\GlobalProject.Infrastructure.csproj" />
+    <ProjectReference Include="..\GlobalProject.Repository\GlobalProject.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

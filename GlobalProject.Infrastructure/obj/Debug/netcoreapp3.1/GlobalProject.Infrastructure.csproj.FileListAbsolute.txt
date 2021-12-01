@@ -1,0 +1,10 @@
+C:\GlobalProject\GlobalProject.Infrastructure\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.deps.json
+C:\GlobalProject\GlobalProject.Infrastructure\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.dll
+C:\GlobalProject\GlobalProject.Infrastructure\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.pdb
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.AssemblyInfoInputs.cache
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.AssemblyInfo.cs
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.dll
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.pdb
+C:\GlobalProject\GlobalProject.Infrastructure\obj\Debug\netcoreapp3.1\GlobalProject.Infrastructure.csproj.AssemblyReference.cache

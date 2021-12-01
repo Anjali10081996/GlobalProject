@@ -1,0 +1,15 @@
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.AssemblyReference.cache
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.AssemblyInfoInputs.cache
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.AssemblyInfo.cs
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.CoreCompileInputs.cache
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.deps.json
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.dll
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.pdb
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Domain.dll
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.dll
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Domain.pdb
+C:\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.pdb
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.CopyComplete
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.dll
+C:\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.pdb
